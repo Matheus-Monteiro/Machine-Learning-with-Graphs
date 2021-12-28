@@ -1,0 +1,6 @@
+[submodule "Fake.br-Corpus"]
+	path = Fake.br-Corpus
+	url = https://github.com/roneysco/Fake.br-Corpus.git
+[submodule "FakeNewsDetection/Fake.br-Corpus"]
+	path = FakeNewsDetection/Fake.br-Corpus
+	url = https://github.com/roneysco/Fake.br-Corpus.git
